@@ -1,5 +1,6 @@
 ffmpeg
 ffmpeg-python
+Cython
 python-dotenv
 gradio_client==0.2.10
 gradio==3.38.0
